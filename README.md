@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RAG知识库问答系统
 
 一个基于LangChain和Streamlit构建的RAG（Retrieval-Augmented Generation）知识库问答系统，支持文档上传、向量化存储和智能问答功能。
@@ -152,3 +153,7 @@ A: 系统会通过MD5值检测，重复文件会被自动跳过。
 - [Streamlit](https://github.com/streamlit/streamlit) - 快速构建Web应用的工具
 - [Chroma](https://github.com/chroma-core/chroma) - 友好的向量数据库
 - [通义千问](https://tongyi.aliyun.com/) - 阿里巴巴的大语言模型服务
+=======
+# rag-demo
+中珠美食测评demo
+>>>>>>> a9d7efd1bf9baf142bcf17b6c1d35a00f924d94c
